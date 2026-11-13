@@ -5,9 +5,9 @@ An Android application developed to calculate a person's BMI (Body Mass Index) b
 The goal of this project is to practice core Android development concepts and programming logic.
 
 
-<img width="510" height="1014" alt="Captura de Tela 2026-11-13 às 16 40 29" src="https://github.com/user-attachments/assets/5eaa720b-1fe2-425f-bb8f-ccf1e0f14800" />
-<img width="489" height="1000" alt="Captura de Tela 2026-11-13 às 16 40 36" src="https://github.com/user-attachments/assets/689d579d-ac5a-4ba3-9244-95e8c2ca53dd" />
-<img width="501" height="988" alt="Captura de Tela 2026-11-13 às 16 40 54" src="https://github.com/user-attachments/assets/7713a2bf-3295-48a6-8777-ead891f5deed" />
+<img width="250" alt="Splash Screen" src="https://github.com/user-attachments/assets/5eaa720b-1fe2-425f-bb8f-ccf1e0f14800" />
+<img width="250" alt="Calculator Screen" src="https://github.com/user-attachments/assets/689d579d-ac5a-4ba3-9244-95e8c2ca53dd" />
+<img width="250" alt="BMI Result Screen" src="https://github.com/user-attachments/assets/7713a2bf-3295-48a6-8777-ead891f5deed" />
 
 
 
