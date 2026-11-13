@@ -3,7 +3,12 @@
 An Android application developed to calculate a person's BMI (Body Mass Index) based on their weight and height.
 
 The goal of this project is to practice core Android development concepts and programming logic.
-<img width="1000" height="540" alt="image" src="https://github.com/user-attachments/assets/058ebd16-bfbd-4d3d-be07-91c6e33a4120" />
+
+
+<img width="510" height="1014" alt="Captura de Tela 2026-11-13 às 16 40 29" src="https://github.com/user-attachments/assets/5eaa720b-1fe2-425f-bb8f-ccf1e0f14800" />
+<img width="489" height="1000" alt="Captura de Tela 2026-11-13 às 16 40 36" src="https://github.com/user-attachments/assets/689d579d-ac5a-4ba3-9244-95e8c2ca53dd" />
+<img width="501" height="988" alt="Captura de Tela 2026-11-13 às 16 40 54" src="https://github.com/user-attachments/assets/7713a2bf-3295-48a6-8777-ead891f5deed" />
+
 
 
 ## 🚀 Features
